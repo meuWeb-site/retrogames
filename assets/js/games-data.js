@@ -2,7 +2,7 @@ export const games = [
     { title: 'Super Mario World', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/nintendo/SNES/mario.webp', url: 'games/super-mario-world.html' },
     { title: 'Mario Kart Deluxe', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/nintendo/SNES/mario-kart.webp', url: 'games/mario-kart.html' },
     { title: 'Crash Team Racing', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/ctr.webp', url: 'sony/playstation-1/ctr.html' },
-    { title: 'Harry Potter And The Sorcerers Stone', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/hp-stone.webp', url: 'games/hp-sorcerer-stone.html' },
+    { title: 'Harry Potter And The Sorcerers Stone', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/hp-stone.webp', url: 'sony/playstation-1/hp-sorcerer-stone.html' },
     { title: 'Harry Potter and the Chamber of Secrets', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/hp-chamber.webp', url: 'games/hp-chamber-of-secrets.html' },
     { title: 'Donkey Kong Country', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/nintendo/SNES/dkc.webp', url: 'games/donkey-kong-country.html' },
     { title: 'Donkey Kong Country 2: Diddy\'s Kong Quest', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/nintendo/SNES/dkc-2.webp', url: 'games/donkey-kong-country-2.html' },
