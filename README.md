@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Up: 20/07/2026 Diddy Kong Fix e Links
+Up: 20/07/2026 Diddy Kong Fix 2
 
  -->
 
