@@ -1,4 +1,5 @@
 export const games = [
+    { title: 'Pro Evolution Soccer 6', company: 'browser', console: 'Navegador', image: 'navegador/pes6.png', url: 'navegador/pes-6.html' },
     { title: 'The Simpsons: Hit & Run', company: 'browser', console: 'Navegador', image: 'navegador/simpsons-hnr.png', url: 'navegador/the-simpsons-hit-and-run.html' },
     { title: 'Zombies', company: 'browser', console: 'Navegador', image: 'navegador/zombies-concentric.png', url: 'navegador/zombies.html' },
     { title: 'Skate 3', company: 'browser', console: 'Navegador', image: 'assets/images/navegador/skate3.png', url: 'navegador/skate-3.html' },

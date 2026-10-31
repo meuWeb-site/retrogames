@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Jogos Navegador: Skate e Guitar
+Jogos Navegador: Skate, Guitar Simpson e PES 6
 
  -->
 
