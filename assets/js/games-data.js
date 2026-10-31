@@ -1,4 +1,5 @@
 export const games = [
+    { title: 'Need for Speed Underground 2', company: 'browser', console: 'Navegador', image: 'assets/images/navegador/need-for-speed-underground-2.svg', url: 'navegador/need-for-speed-underground-2.html' },
     { title: 'Super Mario World', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/nintendo/SNES/mario.webp', url: 'games/super-mario-world.html' },
     { title: 'Mario Kart Deluxe', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/nintendo/SNES/mario-kart.webp', url: 'games/mario-kart.html' },
     { title: 'Crash Team Racing', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/ctr.webp', url: 'sony/playstation-1/ctr.html' },

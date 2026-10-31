@@ -32,6 +32,12 @@ const FILTERS = [
     imageClassName: "menu-logo arcade",
     title: "Fliperama",
   },
+  {
+    id: "browser",
+    image: "assets/icons/browser-monitor.svg",
+    imageClassName: "menu-logo browser",
+    title: "Jogos de navegador",
+  },
 ];
 
 const SOCIAL_LINKS = [

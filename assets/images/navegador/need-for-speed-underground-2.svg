@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-labelledby="title desc">
+  <title id="title">Need for Speed Underground 2</title>
+  <desc id="desc">Arte em neon de um carro esportivo em uma cidade noturna</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070a16"/><stop offset=".55" stop-color="#182153"/><stop offset="1" stop-color="#0b0e22"/></linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#262b45"/><stop offset="1" stop-color="#05060c"/></linearGradient>
+    <linearGradient id="car" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b7ff38"/><stop offset=".5" stop-color="#47d814"/><stop offset="1" stop-color="#147600"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="800" height="900" fill="url(#bg)"/>
+  <g opacity=".5"><path d="M0 340h90V185h85v155h80V110h105v230h95V215h110v125h72V150h95v190h68v220H0z" fill="#111630"/><g fill="#7384ff"><path d="M26 235h25v9H26zm0 35h25v9H26zm99-35h25v9h-25zm154-78h30v10h-30zm0 40h30v10h-30zm209 60h31v10h-31zm173-55h28v9h-28z"/></g></g>
+  <path d="M0 510 800 410v490H0z" fill="url(#road)"/>
+  <path d="M390 520 465 900h-90z" fill="#eaff8d" opacity=".22"/>
+  <g filter="url(#glow)" opacity=".75"><path d="M75 685 720 560" stroke="#687cff" stroke-width="8"/><path d="M135 746 755 625" stroke="#aaff2a" stroke-width="5"/></g>
+  <g transform="translate(95 430)"><path d="m90 230 54-108 128-52 169 15 92 77 40 96-32 79-391 12-85-55z" fill="#080b12"/><path d="m113 226 50-85 119-45 146 13 77 65 25 55-65-22-294 10z" fill="url(#car)"/><path d="m207 138 86-28 117 11 45 50-280 13z" fill="#111c34"/><path d="m306 115-12 64" stroke="#6dff36" stroke-width="5"/><path d="m121 238 383-10 32 45-438 11z" fill="#b8ff42"/><ellipse cx="175" cy="303" rx="55" ry="62" fill="#05060a"/><ellipse cx="175" cy="303" rx="29" ry="35" fill="#657080"/><ellipse cx="458" cy="293" rx="55" ry="62" fill="#05060a"/><ellipse cx="458" cy="293" rx="29" ry="35" fill="#657080"/><path d="m126 238 60-7-13 25-61 5zm335-10 54 11 13 27-73-16z" fill="#f4ffdb" filter="url(#glow)"/></g>
+  <text x="400" y="105" text-anchor="middle" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-size="34" font-style="italic" letter-spacing="3">NEED FOR SPEED</text>
+  <text x="400" y="166" text-anchor="middle" fill="#aaff31" font-family="Arial Black,Arial,sans-serif" font-size="55" font-style="italic" filter="url(#glow)">UNDERGROUND 2</text>
+  <text x="400" y="845" text-anchor="middle" fill="#cdd2ff" font-family="monospace" font-size="22" letter-spacing="6">JOGUE NO NAVEGADOR</text>
+</svg>

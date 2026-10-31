@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Monitor</title>
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a9b2ff"/>
+      <stop offset="1" stop-color="#667eea"/>
+    </linearGradient>
+  </defs>
+  <rect x="7" y="11" width="82" height="59" rx="8" fill="#11162f" stroke="#f5f3ff" stroke-width="4"/>
+  <rect x="14" y="18" width="68" height="44" rx="3" fill="url(#screen)"/>
+  <path d="M20 50 34 35l10 10 11-12 21 22H20z" fill="#1a1f3a" opacity=".72"/>
+  <circle cx="69" cy="29" r="6" fill="#fff" opacity=".85"/>
+  <path d="M39 70h18v9h13v6H26v-6h13z" fill="#f5f3ff"/>
+</svg>
