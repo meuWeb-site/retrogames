@@ -1,4 +1,5 @@
 export const games = [
+    { title: 'Zombies', company: 'browser', console: 'Navegador', image: 'navegador/zombies-concentric.png', url: 'navegador/zombies.html' },
     { title: 'Skate 3', company: 'browser', console: 'Navegador', image: 'assets/images/navegador/skate3.png', url: 'navegador/skate-3.html' },
     { title: 'Guitar Hero III: Legends of Rock', company: 'browser', console: 'Navegador', image: 'assets/images/navegador/gh3.png', url: 'navegador/guitar-hero-3.html' },
     { title: 'Need for Speed Underground 2', company: 'browser', console: 'Navegador', image: 'assets/images/navegador/need-for-speed-underground-2.png', url: 'navegador/need-for-speed-underground-2.html' },
