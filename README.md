@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Jogos Navegador: NFS Underground 2
+Jogos Navegador: Skate e Guitar
 
  -->
 
