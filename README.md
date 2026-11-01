@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Jogos Navegador: Carmen Sandiego DOS
+Jogos Navegador: Minecraft
 
  -->
 
