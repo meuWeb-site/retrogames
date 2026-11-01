@@ -458,6 +458,45 @@ main {
     transform: translateY(-2px);
 }
 
+.browser-game-card--article {
+    grid-template-columns: minmax(240px, 0.7fr) minmax(360px, 1.3fr);
+    align-items: start;
+}
+
+.browser-game-card--article .browser-game-art {
+    height: auto;
+    min-height: 0;
+    position: sticky;
+    top: 1.5rem;
+    object-fit: contain;
+    padding: clamp(1.5rem, 4vw, 3rem);
+    background: #090b18;
+}
+
+.browser-game-card--article .browser-game-content {
+    justify-content: flex-start;
+}
+
+.browser-game-content h2 {
+    margin-top: 0.5rem;
+    font-size: clamp(1.25rem, 2.5vw, 1.7rem);
+    line-height: 1.25;
+}
+
+.browser-game-content ul {
+    display: grid;
+    gap: 0.85rem;
+    padding-left: 1.25rem;
+    color: var(--text-secondary);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.browser-game-content strong {
+    color: var(--text-primary);
+}
+
 
 /* Footer */
 
@@ -901,6 +940,14 @@ footer .footer-logo {
 
     .browser-game-card {
         grid-template-columns: 1fr;
+    }
+
+    .browser-game-card--article {
+        grid-template-columns: 1fr;
+    }
+
+    .browser-game-card--article .browser-game-art {
+        position: static;
     }
 
     .browser-game-art {

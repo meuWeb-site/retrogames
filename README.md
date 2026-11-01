@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Jogos Navegador: Skate, Guitar Simpson e PES 6
+Jogos Navegador: Carmen Sandiego DOS
 
  -->
 

@@ -1,4 +1,5 @@
 export const games = [
+    { title: 'Where in the World Is Carmen Sandiego?', company: 'browser', console: 'Navegador · DOS', image: 'assets/images/navegador/carmensadiegodos.png', url: 'navegador/carmen-sandiego.html' },
     { title: 'Pro Evolution Soccer 6', company: 'browser', console: 'Navegador', image: 'navegador/pes6.png', url: 'navegador/pes-6.html' },
     { title: 'The Simpsons: Hit & Run', company: 'browser', console: 'Navegador', image: 'navegador/simpsons-hnr.png', url: 'navegador/the-simpsons-hit-and-run.html' },
     { title: 'Zombies', company: 'browser', console: 'Navegador', image: 'navegador/zombies-concentric.png', url: 'navegador/zombies.html' },
